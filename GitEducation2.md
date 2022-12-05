@@ -1,0 +1,1 @@
+# GIT Education. Second seminar.
