@@ -1,0 +1,1 @@
+# Git seminar 3 homework. Remote repositary manual.
